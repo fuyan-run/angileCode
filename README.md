@@ -11,15 +11,15 @@
 > [内置的 snippets 原作者地址 vscode-react-typescript-boilerplate](https://github.com/Magssch/vscode-react-typescript-boilerplate)
 
 1. acreact
-   ![avatar](https://gitee.com/Alisa_home/angile-vscode/raw/master/images/acreact.gif)
+   ![avatar](https://raw.githubusercontent.com/fuyan-run/angileCode/main/acreact.gif)
 2. acreactprops
-   ![avatar](https://gitee.com/Alisa_home/angile-vscode/raw/master/images/acreactprops.gif)
+   ![avatar](https://raw.githubusercontent.com/fuyan-run/angileCode/main/acreactprops.gif)
 3. acstate
-   ![avatar](https://gitee.com/Alisa_home/angile-vscode/raw/master/images/acstate.gif)
+   ![avatar](https://raw.githubusercontent.com/fuyan-run/angileCode/main/acstate.gif)
 4. aceffect
-   ![avatar](https://gitee.com/Alisa_home/angile-vscode/raw/master/images/aceffect.gif)
+   ![avatar](https://raw.githubusercontent.com/fuyan-run/angileCode/main/aceffect.gif)
 5. acmodule
-   ![avatar](https://gitee.com/Alisa_home/angile-vscode/raw/master/images/acmodule.gif)
+   ![avatar](https://raw.githubusercontent.com/fuyan-run/angileCode/main/acmodule.gif)
 
 ## 内置的 `翻译`
 
@@ -33,25 +33,25 @@
 
 -   可通过设置，保留翻译前文字，多个单词默认返回驼峰命名
 
-![avatar](https://gitee.com/Alisa_home/angile-vscode/raw/master/images/BatchTranslation.gif)
+![avatar](https://raw.githubusercontent.com/fuyan-run/angileCode/main/BatchTranslation.gif)
 
 ## 内置的 `快捷结构输入`
 
 -   通常我们在写布局时，特别使用 css module 时，在输入 className，会有以下的反复操作
     [反复删除逗号，style 属性重复书写]
-    ![avatar](https://gitee.com/Alisa_home/angile-vscode/raw/master/images/className1.gif)
+    ![avatar](https://raw.githubusercontent.com/fuyan-run/angileCode/main/className1.gif)
 
 -   很是费时费力，有了 angileCode 现在你可以这么操作 (可以设置多个类名)
-    ![avatar](https://gitee.com/Alisa_home/angile-vscode/raw/master/images/classNameAngileCode.gif)
+    ![avatar](https://raw.githubusercontent.com/fuyan-run/angileCode/main/classNameAngileCode.gif)
 
 -   还可以通过设置保留命名的类名，方便 `copy` 到相应的 css 位置, 当然我们还可以设置[全局 className 提示](#常用--公用-classname-配置-angilecoderc)
-    ![avatar](https://gitee.com/Alisa_home/angile-vscode/raw/master/images/classNameCopyAngileCode.gif)
+    ![avatar](https://raw.githubusercontent.com/fuyan-run/angileCode/main/classNameCopyAngileCode.gif)
 
 当然 AngileCode 还支持同级 `符号："|"`【目前只支持一级】 子父级`符号：">"` 常用的 style / attr 属性 **常用代码**
-![avatar](https://gitee.com/Alisa_home/angile-vscode/raw/master/images/sonattr.gif)
+![avatar](https://raw.githubusercontent.com/fuyan-run/angileCode/main/sonattr.gif)
 
 -   如果你没有使用 `css module` 的习惯，可以在配置中关闭 `style.` 这种形式命名
-    ![avatar](https://gitee.com/Alisa_home/angile-vscode/raw/master/images/closeModuleStyle.gif)
+    ![avatar](https://raw.githubusercontent.com/fuyan-run/angileCode/main/closeModuleStyle.gif)
 
 ```javascript
 // 快捷属性输入
@@ -182,15 +182,15 @@ interface IComponentClassName {
 
 通过配置 JSON 中的 `component`，来达到快捷输入。以上述配置 JSON `component` 示例如下：
 
--   ![avatar](https://gitee.com/Alisa_home/angile-vscode/raw/master/images/angilecodercComponent.gif)
+-   ![avatar](https://raw.githubusercontent.com/fuyan-run/angileCode/main/angilecodercComponent.gif)
 
 Ac-Popover 片段 演示光标 **配合 prettier 会有很好的效果**
 
--   ![avatar](https://gitee.com/Alisa_home/angile-vscode/raw/master/images/AcPopover.gif)
+-   ![avatar](https://raw.githubusercontent.com/fuyan-run/angileCode/main/AcPopover.gif)
 
 Button 片段 演示属性
 
--   ![avatar](https://gitee.com/Alisa_home/angile-vscode/raw/master/images/ButtonAttr.gif)
+-   ![avatar](https://raw.githubusercontent.com/fuyan-run/angileCode/main/ButtonAttr.gif)
 
 ## 常用 / 公用 className 配置 `.angilecoderc`
 
@@ -198,6 +198,6 @@ Button 片段 演示属性
 
 以上述配置 JSON `classname` 示例如下：
 
--   ![avatar](https://gitee.com/Alisa_home/angile-vscode/raw/master/images/classname.gif)
+-   ![avatar](https://raw.githubusercontent.com/fuyan-run/angileCode/main/classname.gif)
 
 ### **以上就是目前 `AngileCode` 全部内容 希望能帮助到你!**
